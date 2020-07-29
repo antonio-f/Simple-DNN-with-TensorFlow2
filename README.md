@@ -1,4 +1,8 @@
 # Simple-DNN-with-TensorFlow2
 
 Simple Deep Neural Network example with TensorFlow2. 
-Libraries needed are just TF2.0, NumPy and Matplotlib.
+
+You just need TF2.0, NumPy and Matplotlib.
+
+More on the following page: 
+https://m0nads.wordpress.com/2020/07/26/simple-neural-network-using-tensorflow-2/
